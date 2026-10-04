@@ -1,0 +1,27 @@
+NIKTO SCAN RESULTS
+==================
+
+Target:
+[AUTHORIZED LOCAL TEST SERVER]
+
+Basic scan:
+nikto -h [TARGET]
+
+Actual output:
+[PASTE ACTUAL OUTPUT HERE]
+
+HTTPS scan, if applicable:
+nikto -h [TARGET] -ssl
+
+Actual output:
+[PASTE ACTUAL OUTPUT HERE]
+
+FINDINGS REGISTER
+-----------------
+ID:
+Finding:
+Severity:
+Risk:
+Remediation:
+
+Repeat for every actual finding.

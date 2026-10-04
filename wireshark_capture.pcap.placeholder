@@ -1,0 +1,5 @@
+Generate the real PCAP from your authorized local lab and save it as:
+
+wireshark_capture.pcap
+
+Do not upload captures containing private credentials or other people's data.
